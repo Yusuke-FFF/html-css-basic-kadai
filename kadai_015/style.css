@@ -1,0 +1,38 @@
+
+body{
+  font-family: "Arial","Meiryo",sans-serif;
+  text-align: center;
+}/*字のフォント指定、中央揃え*/
+
+#basic{
+  font-weight: bold;
+}/*侍太郎、1990年1月1日、O型を太字にする */
+
+html{
+  font-size: 20px;
+}
+
+.color-pink{
+  color: rgb(255,192,203);
+}
+
+.color-skyblue{
+  color: skyblue;
+}
+
+
+
+.sans-serif{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+  text-shadow: 3px 3px 5px gray;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  border-bottom: 3px solid rgb(115,115,114);
+}
+
